@@ -154,6 +154,6 @@ To Hunter, Sam, and Randy – thank you so much for these last 24 weeks, giving 
 
 * [https://www.kaggle.com/](https://www.kaggle.com/)
 * [https://slidesgo.com/](https://slidesgo.com/)
-* [https://python-charts.com/](https://python-charts.com/)
+* [[https://python-charts.com/](https://python-charts.com/ranking/wordcloud-matplotlib/)
 * [https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/](https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/)
 
