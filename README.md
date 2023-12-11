@@ -46,7 +46,7 @@ As we navigate this project, we will explore different aspects of data visualiza
      - wordcloud-2.png
      - wordcloud-3.png
 
-### OVERIEW:
+### OVERVIEW:
 
 Using supervised learning in order to predict whether an email is spam or not, using a binary classification model.
 
