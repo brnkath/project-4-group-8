@@ -66,13 +66,13 @@ Using supervised learning in order to predict whether an email is spam or not, u
 - gitignore - Brian
 - No unnecessary files/folders - Jake & Laura
 - Draft README - Laura
-  - Draft Next Steps - Laura
+- Draft Next Steps - Laura
 
 <ins>Visualizations & Presentation</ins>
 - Website - Brian
 - Tableau - Jake
 - Presentation slides - Katy
-  - Next Steps - Laura & Katy
+- Next Steps - Laura & Katy
 
 
 ### ANALYSIS:
