@@ -50,7 +50,7 @@ As we navigate this project, we will explore different aspects of data visualiza
 
 Using supervised learning in order to predict whether an email is spam or not, using a binary classification model.
 
-**General Breakdown of Tasks:**<br/>
+#### General Breakdown of Tasks:
 
 <ins>Data Model Implementation</ins>
 - Clean, normalized & standardized data before modeling - Laura
