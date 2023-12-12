@@ -41,6 +41,9 @@ As we navigate this project, we will explore different aspects of data visualiza
      - tableau-dashboard.png
      - Top-Ten-Features-Bar.png
      - Top-Ten-Features-Bubble.png
+     - Top-Ten-Usage-Bar.png
+     - Top-Ten-Usage-Bar.png
+     - Top-Ten-Dashboard-Bar.png
      - wordcloud_banner.png
      - wordcloud_medium.png
      - wordcloud-1.png
