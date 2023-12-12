@@ -166,7 +166,7 @@ The deployment of advanced machine learning techniques for classification unders
 
 ## THANK YOU!
 
-To Hunter, Sam, and Randy – thank you so much for these last 24 weeks, giving us this opportunity to grow and develop a whole new skill set built for success! 
+To Hunter, Sam, and Randy! Thank you so much for these last 24 weeks, giving us this opportunity to grow and develop a whole new skill set built for success! 
 
 ### RESOURCES:
 
