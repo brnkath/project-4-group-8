@@ -71,7 +71,7 @@ The data was imported into Spark for cleaning and initial analysis. The data had
 
 Using supervised learning in order to predict whether an email is spam or not, using a binary classification model.
 
-### General Breakdown of Tasks:
+### GENERAL BREAKDOWN OF TASKS:
 
 <ins>Data Model Implementation</ins>
 - Clean, normalized & standardized data before modeling - Laura
@@ -130,11 +130,8 @@ Given the less favorable performance of the SVM model compared to the Logistic R
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/summary-model-results.png" width="75%"><br/>
 Summary of Models and Results, compiled in Jupyter Notebook.<br/>
 
-<img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Features-Bar.png" width="50%"><br/>
-Bar graph of the top represented features as identified by Random Forest: Feature Importances.<br/>
-
-<img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Features-Bubble.png" width="50%"></br>
-Bar graph of the top represented features as identified by Random Forest: Feature Importances.<br/>
+<img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Dashboard.png"><br/>
+Full Dashboard created in Tableau.<br/>
 
 ## CONCLUSION:
 
