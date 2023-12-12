@@ -58,12 +58,12 @@ Using supervised learning in order to predict whether an email is spam or not, u
 
 <ins>Data Model Implementation</ins>
 - Clean, normalized & standardized data before modeling - Laura
-- Python initialize, train, evaluates a model - Katy
+- Python initialize, train, evaluates a model - Brian & Katy
 - Dataset imported into Spark – Laura
 
 <ins>Data Model Optimization</ins>
-- Changes documented - Katy
-- Change results documented - Katy
+- Changes documented - Brian & Katy
+- Change results documented - Brian & Katy
 - Overall performance at end - Katy
 
 <ins>Git Hub Documentation</ins>
