@@ -71,7 +71,7 @@ The data was imported into Spark for cleaning and initial analysis. The data had
 
 Using supervised learning in order to predict whether an email is spam or not, using a binary classification model.
 
-#### General Breakdown of Tasks:
+### General Breakdown of Tasks:
 
 <ins>Data Model Implementation</ins>
 - Clean, normalized & standardized data before modeling - Laura
