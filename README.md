@@ -65,7 +65,7 @@ As we navigate this project, we will explore different aspects of data visualiza
 * 3002 columns
     - Individual word counts
 
-The data was imported into Spark for cleaning and initial analysis of the data. The data had no null values that needed to be addressed and in general wanted to keep all the word columns provided.  In order to prepare the data for use in the models we removed the 'Email No.' column.   
+The data was imported into Spark for cleaning and initial analysis. The data had no null values that needed to be addressed. We wanted to preserve the word columns provided.  To prepare the data for use in the models we removed the 'Email No.' and 'Prediction' columns.   
 
 ### OVERVIEW:
 
