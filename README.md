@@ -110,10 +110,10 @@ Given the less favorable performance of the SVM model compared to the Logistic R
 Summary of Models and Results, compiled in Jupyter Notebook.<br/>
 
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Features-Bar.png" width="50%"><br/>
-Bar graph of the top represented features. I.E., the top ten used words identified in spam emails.<br/>
+Bar graph of the top represented features as identified by Feature Importances.<br/>
 
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Features-Bubble.png" width="50%"></br>
-Bubble map of the top represented features. I.E., the top ten used words identified in spam emails, represented by weight-by-circles.<br/>
+Bar graph of the top represented features as identified by Feature Importances.<br/>
 
 ## CONCLUSION:
 
