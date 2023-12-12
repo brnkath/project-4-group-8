@@ -140,7 +140,6 @@ The deployment of advanced machine learning techniques for classification unders
 
 * A vital next step is optimizing the Random Forest model for enhanced performance. Focusing on important features identified during development, fine-tuning parameters improves efficiency with diverse datasets. Optimization extends to scalability and speed, crucial for real-world databases. Exploring alternative feature selection approaches reveals hidden patterns, refining predictive capabilities. This iterative process involves continuous testing and validation to ensure enhancements contribute positively to the model's accuracy and overall performance.
 
-* By discerning and prioritizing the most influential features, such as the 500 most commonly used words in the identified spam emails, our model could make informed decisions, enhancing its ability to effectively distinguish between spam and legitimate emails with a high degree of precision in later iterations.
 
 ### SPAM TIPS:
 
