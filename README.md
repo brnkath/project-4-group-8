@@ -7,7 +7,6 @@ Project 4, Group 8<br/>
 **Website:** https://brnkath.github.io/project-4-group-8/<br/>
 **Slide Deck:** PDF LINK<br/>
 **Tableau Dashboard:** https://public.tableau.com/app/profile/jake.moen/viz/Top_Ten_Dashboard/Dashboard22?publish=yes<br/>
-**Dataset:** https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv<br/>
 <br/>
 
 ## INTRODUCTION:
@@ -31,24 +30,40 @@ As we navigate this project, we will explore different aspects of data visualiza
   - css
     - styles.css
   - img
-     - favicon.png
-     - model-1-accuracy.png
-     - model-2-accuracy.png
-     - model-3-accuracy.png
-     - model-4-accuracy.png
-     - model-5-accuracy.png
-     - model-5-random-forest-importance.png
-     - tableau-dashboard.png
-     - Top-Ten-Features-Bar.png
-     - Top-Ten-Features-Bubble.png
-     - Top-Ten-Usage-Bar.png
-     - Top-Ten-Usage-Bar.png
-     - Top-Ten-Dashboard-Bar.png
-     - wordcloud_banner.png
-     - wordcloud_medium.png
-     - wordcloud-1.png
-     - wordcloud-2.png
-     - wordcloud-3.png
+    - BALAKA-BISWAS-HISTORY.png    
+    - Top-Ten-Dashboard.png    
+    - Top-Ten-Features-Bar.png    
+    - Top-Ten-Features-Bubble.png    
+    - Top-Ten-Usage-Bar.png    
+    - Top-Ten-Usage-Bubble.png    
+    - favicon.png    
+    - model-1-accuracy.png    
+    - model-2-accuracy.png    
+    - model-3-accuracy.png    
+    - model-4-accuracy.png    
+    - model-5-accuracy.png    
+    - model-5-random-forest-importance.png    
+    - summary-model-results.png    
+    - wordcloud-1.png    
+    - wordcloud-2.png    
+    - wordcloud-3.png    
+    - wordcloud_banner.png    
+    - wordcloud_medium.png
+   
+### DATASET:
+
+**Name:** Email Spam Classification Dataset CSV<br/>
+**Written by:** Balaka Biswas<br/>
+**Date:** Approximately 4 years old<br/>
+**Downloaded:** 11/30/2023<br/>
+**URL:** [https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv<br/>
+)<br/>
+<br/>
+<img src="https://github.com/brnkath/project-4-group-8/blob/main/img/BALAKA-BISWAS-HISTORY.png" width="50%"><br/>
+* 5172 rows
+    - Individual email entry
+* 3002 columns
+    - Individual word counts
 
 ### OVERVIEW:
 
