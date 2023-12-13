@@ -61,9 +61,9 @@ As we navigate this project, we will explore different aspects of data visualiza
 <br/>
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/BALAKA-BISWAS-HISTORY.png" width="50%"><br/>
 * 5172 rows
-    - Individual email entry
+    - Individual email entries, 1 per row
 * 3002 columns
-    - Individual word counts
+    - Individual word counts, 1 word per column
 
 The data was imported into Spark for cleaning and initial analysis utilizing Google Colab. The data had no null values that needed to be addressed. We wanted to preserve the word columns provided.  To prepare the data for use in the models we removed the 'Email No.' and 'Prediction' columns.   
 
