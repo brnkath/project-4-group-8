@@ -3,7 +3,7 @@
 **Title:** Spamalot: Spam or Not?<br/>
 Project 4, Group 8<br/>
 **Contributors:** Laura Bishop, Brian Kath, Jake Moen and Katy Yelle<br/><br/>
-**Repository:** https://github.com/brnkath/project-4-group-8<br/>
+
 **Website:** https://brnkath.github.io/project-4-group-8/<br/>
 **Presentation:** https://github.com/brnkath/project-4-group-8/blob/main/Resources/Project4_Group8.pdf<br/>
 **Tableau Dashboard:** https://public.tableau.com/app/profile/jake.moen/viz/Top_Ten_Dashboard/Dashboard22?publish=yes<br/>
