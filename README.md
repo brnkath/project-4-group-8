@@ -26,7 +26,8 @@ As we navigate this project, we will explore different aspects of data visualiza
  
 * Sub Folders
   - Resources
-    - emails.csv
+    - Project4_Group8.pdf
+    - emails.csv 
   - css
     - styles.css
   - img
