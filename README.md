@@ -19,7 +19,7 @@ As we navigate this project, we will explore different aspects of data visualiza
 
 * Main Folder
     - .gitignore
-    - data_models.ipynb
+    - spark_data_models.ipynb
     - index.html
     - README.md
     - word_cloud.ipynb
