@@ -65,6 +65,10 @@ As we navigate this project, we will explore different aspects of data visualiza
     - Individual email entries, 1 per row
 * 3002 columns
     - Individual word counts, 1 word per column
+* Spam Label
+    - 3672 Not Spam
+    - 1500 Spam
+
 
 The data was imported into Spark for cleaning and initial analysis utilizing Google Colab. The data had no null values that needed to be addressed. We wanted to preserve the word columns provided.  To prepare the data for use in the models we removed the 'Email No.' and 'Prediction' columns.   
 
