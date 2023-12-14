@@ -135,6 +135,9 @@ Given the less favorable performance of the SVM model compared to the Logistic R
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/summary-model-results.png" width="75%"><br/>
 Summary of Models and Results, compiled in Jupyter Notebook.<br/>
 
+<img src="https://github.com/brnkath/project-4-group-8/blob/main/img/model-5-random-forest-importance.png" width="40%"><br/>
+Results of Feature Importance.<br/>
+
 <img src="https://github.com/brnkath/project-4-group-8/blob/main/img/Top-Ten-Dashboard.png"><br/>
 Full Dashboard created in Tableau.<br/>
 
